@@ -19,3 +19,8 @@ A few updates to the instructions above were needed.
 * BUILD_visualization needed to be manually turned on, this link shows you how to do that,
 http://www.pointclouds.org/documentation/tutorials/building_pcl.php
 
+#### Build instructions
+1. cd to build
+2. cmake ..
+3.make
+4. run ./environment
