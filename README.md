@@ -22,5 +22,5 @@ http://www.pointclouds.org/documentation/tutorials/building_pcl.php
 #### Build instructions
 1. cd to build
 2. cmake ..
-3.make
+3. make
 4. run ./environment
